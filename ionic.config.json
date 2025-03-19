@@ -1,0 +1,7 @@
+{
+  "name": "ar-jewellery-tryon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
